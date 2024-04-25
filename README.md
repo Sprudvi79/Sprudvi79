@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Qp-0me1hMZzXyZ0M5prHv-JY2_qoapDW/edit](https://docs.google.com/document/d/1Qp-0me1hMZzXyZ0M5prHv-JY2_qoapDW/edit)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>https://docs.google.com/document/d/1Qp-0me1hMZzXyZ0M5prHv-JY2_qoapDW/edit
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/prudvi-sai-b03856196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prudvi-sai-b03856196" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19719781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19719781" height="30" width="40" /></a>
